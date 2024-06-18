@@ -3,13 +3,17 @@
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm James, a student at Brigham Young University-Idaho interested in backend engineering. Welcome to my GitHub profile!
 
 ## About Me
 
 - I'm currently learning Java and System design.
 - My goal is to build a highly scalable and high-performance system.
 - Ask me about coding
+
+## Project
+This is the project for course CSE310 Applied Programming.
+https://github.com/jamesjavanyc/online-chatting-distributed 
 
 ## Technologies and Tools
 
